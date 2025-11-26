@@ -1,7 +1,8 @@
 This is a sample file
 This is modification 1
-<<<<<<< HEAD
+ HEAD
 This is modification 3
-=======
+
 This is modification 2
->>>>>>> 07e95bd2899dd51df7216e7a5a25434d6efec5d2
+
+Testing by venkat at 11:23 AM
